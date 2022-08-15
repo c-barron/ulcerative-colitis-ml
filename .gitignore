@@ -3,3 +3,4 @@ data/patient_based_classified_images/
 data/uc_sframe/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+**/*Zone.Identifier

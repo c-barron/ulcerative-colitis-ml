@@ -3,7 +3,9 @@
 
 Uses Turi Create Image Classification to categorize the severity of ulcerative colitis from endoscopic images.
 
+## Disclaimer
 
+This is for educational uses only!
 
 ## Installation
 
